@@ -1,14 +1,10 @@
-### Entrega M4 - API de livros
-Ao clonar, rode o comando npm install para instalar as dependências
+### Entrega M4 - API de livros - Parte 2
 
-Você poderá iniciar a aplicação rodando o comando:
+Repositório com testes automáticos atualizados para segunda parte do projeto.
 
-```
-npm run dev
-```
+### Passo a passo:
 
-Você poderá rodar os testes automáticos preparádos para essa aplicação rodando o comando:
+-Clone repositório.
+-Copie a pasta `tests` e substitua no seu projeto API de livros.
 
-```
-npm run test
-```
+Serão inclusos novos testes em seu projeto.
